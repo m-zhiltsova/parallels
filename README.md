@@ -1,4 +1,4 @@
-## just run one of these command in current directory
+## just run one of these commands in current directory
 
 #### for float
     make USEFLOAT=true
